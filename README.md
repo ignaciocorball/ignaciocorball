@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ignaciocorball@gmail.com**
 
-- 📄 Know about my experiences [https://patagonia.delivery/ignaciocorball.html](https://patagonia.delivery/ignaciocorball.html)
+- 📄 Know about my experiences [https://patagonia.delivery/ic-es/index.html](https://patagonia.delivery/ic-es/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
