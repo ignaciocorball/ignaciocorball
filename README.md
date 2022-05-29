@@ -1,11 +1,9 @@
-[![Website](https://img.shields.io/website?down_message=We%20come%20back%20soon&up_message=Currently%20UP&url=https%3A%2F%2Ftechcoy.xyz%2F)](https://techcoy.xyz/)&nbsp;
-[![Buy me one Coffe](https://img.shields.io/badge/Paypal-Buy%20me%20a%20Coffe%20:D-blue?style=flat-square&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=DHVAQ8ZDAVZGQ)&nbsp;
-
 <h1 align="center">Hi 👋, I'm Ignacio Corball</h1>
 <h3 align="center">A passionate software developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciocorball&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciocorball" /> </p>
-
+[![Website](https://img.shields.io/website?down_message=We%20come%20back%20soon&up_message=Currently%20UP&url=https%3A%2F%2Ftechcoy.xyz%2F)](https://patagonia.delivery/)&nbsp;
+[![Buy me one Coffe](https://img.shields.io/badge/Paypal-Buy%20me%20a%20Coffe%20:D-blue?style=flat-square&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=DHVAQ8ZDAVZGQ)&nbsp;
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Patagonia Delivery**
