@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **ignaciocorball@gmail.com**
 
-- 📄 Know about my experiences [https://patagonia.delivery/ic-es/index.html](https://patagonia.delivery/ic-es/index.html)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ghosty.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghosty.xyz" height="30" width="40" /></a>
