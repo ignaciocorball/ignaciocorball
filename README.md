@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular & Firebase**
 
-- 💬 Ask me about **C#, Python, Javascript, Codeigniter 4, PHP, Java, Telecommunications**
+- 💬 Ask me about **C#, Python, Javascript, PHP, Java, Typescript, MySQL, Angular 12+, Telecommunications**
 
 - 📫 How to reach me **ignaciocorball@gmail.com**
 
