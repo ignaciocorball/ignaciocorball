@@ -29,7 +29,7 @@
 </p>
 <br>
 <br>
-<p align="center"><img src="https://metrics.lecoq.io/ignaciocorball?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0"></p align="center">
+<p align="center"><img src="https://metrics.lecoq.io/ignaciocorball?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FChile"></p align="center">
 <br>
 <br>
 <br>
