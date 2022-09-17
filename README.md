@@ -23,7 +23,7 @@
 </p>  
 
 <!--- Stat Github --->
-<img align="left" width="400" height="auto" alt="Arcturian github stats" src="https://github-readme-stats.vercel.app/api/?username=ignaciocorball&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img align="left" width="420" height="auto" alt="Arcturian github stats" src="https://github-readme-stats.vercel.app/api/?username=ignaciocorball&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <img align="right" width="359" height="auto" alt="Arcturian github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocorball&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">  
 <!--- Snake Graph --->
 <p align="center">
