@@ -23,7 +23,7 @@
 </p>  
 
 <!--- Stat Github --->
-<img align="left" width="430" height="auto" alt="ignaciocorball's github stats" src="https://github-readme-stats.vercel.app/api?username=ignaciocorball&hide=_border=true&show_icons=true&theme=radical;count_private=true&amp;include_all_commits=true">  
+<img align="left" width="430" height="auto" alt="ignaciocorball's github stats" src="https://github-readme-stats.vercel.app/api?username=ignaciocorball&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515;count_private=true&amp;include_all_commits=true">  
 <img align="right" width="359" height="auto" alt="AeX03's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aex03&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">  
 <!--- Snake Graph --->
 <p align="center">
