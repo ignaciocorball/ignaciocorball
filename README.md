@@ -6,15 +6,11 @@
 [![Patagonia Delivery Merchants](https://img.shields.io/website?down_message=maintenance&label=Patagonia%20Delivery%20Merchants&up_color=green&up_message=visit%20us&url=https%3A%2F%2Fpatagonia.delivery)](https://negocios.patagonia.delivery/)&nbsp;
 [![Buy me one Coffe](https://img.shields.io/badge/Paypal-Buy%20me%20a%20Coffe%20:D-blue?style=flat-square&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=DHVAQ8ZDAVZGQ)&nbsp;
 
-- 🔭 My last project was **Patagonia Delivery**  
+- 🔭 CEO at **Patagonia Delivery**  
      Live Demos:
      <a href="https://patagonia-food-delivery.web.app/">Customers</a>
      <a href="https://patagonia-delivery-merchants.web.app/home/">Merchants</a>
-      
-- 🌱 I’m currently learning **Firebase & Angular**
-
-- 💬 Ask me about **Angular 12, C#, Python, Javascript, PHP, MySQL, Firebase and Telecommunications**
-
+     
 - 📫 How to reach me **ignaciocorball@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
