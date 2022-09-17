@@ -6,8 +6,7 @@
 [![Buy me one Coffe](https://img.shields.io/badge/Paypal-Buy%20me%20a%20Coffe%20:D-blue?style=flat-square&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=DHVAQ8ZDAVZGQ)&nbsp;
 
 - 🔭 My last project was **Patagonia Delivery**
-      
-     You can see a demos in:
+     Demos:
      <a href="https://patagonia-food-delivery.web.app/">Customers</a>
      <a href="https://patagonia-delivery-merchants.web.app/home/">Merchants</a>
       
