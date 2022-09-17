@@ -23,11 +23,6 @@
 <!--- Snake Graph --->
 <p align="center">
 <img src="https://raw.githubusercontent.com/ignaciocorball/ignaciocorball/main/resources/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
-</p>
-<br>
-<br>
+</p>  
 <p align="center"><img src="https://metrics.lecoq.io/ignaciocorball?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FChile"></p align="center">
-<br>
-<br>
-<br>
 
