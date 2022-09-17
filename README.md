@@ -23,7 +23,7 @@
 <img align="right" width="359" height="auto" alt="AeX03's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aex03&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">  
 <!--- Snake Graph --->
 <p align="center">
-<img src="https://github.com/ignaciocorball/ignaciocorball/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+<img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 <br>
 <br>
