@@ -18,8 +18,8 @@
 </p>  
 
 <!--- Stat Github --->
-<img align="left" width="440" height="auto" alt="Arcturian github stats" src="https://github-readme-stats.vercel.app/api/?username=ignaciocorball&show_icons=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=transparent">
-<img align="right" width="359" height="auto" alt="Arcturian github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocorball&show_icons=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=transparent&layout=compact&amp;">  
+<img align="left" width="440" height="auto" alt="Arcturian github stats" src="https://github-readme-stats.vercel.app/api/?username=ignaciocorball&show_icons=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=1C1B22">
+<img align="right" width="359" height="auto" alt="Arcturian github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocorball&show_icons=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=1C1B22&layout=compact&amp;">  
 <!--- Snake Graph --->
 <p align="center">
 <img src="https://raw.githubusercontent.com/ignaciocorball/ignaciocorball/main/resources/github-contribution-grid-snake-dark.svg" alt="snake" style="max-width: 100%;">
