@@ -21,7 +21,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ignaciocorball&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ignaciocorball&theme=dark&hide_border=false)
-<div class="text-center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocorball&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
 <!--- Snake Graph --->
 <p align="center">
 <img src="https://raw.githubusercontent.com/ignaciocorball/ignaciocorball/main/resources/github-contribution-grid-snake-dark.svg" alt="snake" style="max-width: 100%;">
