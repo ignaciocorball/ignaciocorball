@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 🏴‍☠️👋</h1>
+<h1 align="center">Hi everyone 🛡️👋</h1>
 <h4 align="center">Full-time Frontend Developer with a strong focus on Angular and TypeScript. Experienced in creating dynamic websites and Windows applications. Passionate about entrepreneurship and cybersecurity.</h4>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ignaciocorball&label=Profile%20views&color=0e75b6&style=flat)]([#](https://github.com/ignaciocorball))&nbsp;
