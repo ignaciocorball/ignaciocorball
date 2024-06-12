@@ -1,5 +1,5 @@
 <h1 align="center">Hi traveler 🛡️👋</h1>
-<h4 align="center" I'm full-time Frontend Developer with a strong focus on Angular and TypeScript. Experienced in creating dynamic websites and Windows applications. Passionate about entrepreneurship and cybersecurity.</h4>
+<h4 align="center"> I'm full-time Frontend Developer with a strong focus on Angular and TypeScript. Experienced in creating dynamic websites and Windows applications. Passionate about entrepreneurship and cybersecurity.</h4>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ignaciocorball&label=Profile%20views&color=0e75b6&style=flat)]([#](https://github.com/ignaciocorball))&nbsp;
 [![Patagonia Delivery](https://img.shields.io/website?down_message=maintenance&label=Patagonia%20Delivery&up_color=green&up_message=visit%20us&url=https%3A%2F%2Fpatagonia.delivery)](https://patagonia-delivery-a6013.web.app/)&nbsp;
